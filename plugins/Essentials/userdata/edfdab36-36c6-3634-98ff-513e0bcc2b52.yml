@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.10.10.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660790223760
+  login: 1660789434316
+money: '49.2694507556378529'
+last-account-name: Eru
+lastlocation:
+  world: 71e0a704-01d4-4afe-8ef8-461b7473dac1
+  world-name: world_the_end
+  x: 96.14256446011878
+  y: 59.0
+  z: -8.034584285284355
+  yaw: 148.34408569335938
+  pitch: -3.6001534461975098
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 972.485008381421
+  y: 67.0
+  z: -629.5151693280411
+  yaw: -165.5895538330078
+  pitch: 34.800140380859375

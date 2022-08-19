@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660867273871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660869882610
+  login: 1660862441434
+money: '1649.3019323614635087'
+last-account-name: aedan
+lastlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 1573.4958147906577
+  y: -22.0
+  z: -558.1060023590268
+  yaw: 50.71826171875
+  pitch: 38.55005645751953
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 967.6102390515593
+  y: 72.0
+  z: -565.1174161287581
+  yaw: -170.75131225585938
+  pitch: 36.74988555908203
+homes:
+  casa:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 961.0728698270956
+    y: 72.0
+    z: -567.5257955933989
+    yaw: -113.4144287109375
+    pitch: 30.74980926513672
+  casa2:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 966.7836954747704
+    y: 72.0
+    z: -566.5476747502969
+    yaw: -59.9014892578125
+    pitch: 28.649808883666992

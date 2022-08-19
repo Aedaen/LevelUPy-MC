@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.10.10.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660789305657
+  login: 1660788660770
+money: '50'
+last-account-name: Dandelliones
+lastlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 65.5
+  y: 84.0
+  z: -41.5
+  yaw: 5.485613822937012
+  pitch: 0.0
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 251.08059198471875
+  y: 132.0
+  z: -625.4649107636754
+  yaw: -87.324951171875
+  pitch: -17.699953079223633

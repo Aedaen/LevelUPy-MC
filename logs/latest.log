@@ -1,0 +1,861 @@
+[00:01:43] [Craft Scheduler Thread - 101/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[00:21:43] [Craft Scheduler Thread - 100/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[00:41:43] [Craft Scheduler Thread - 100/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[01:01:43] [Craft Scheduler Thread - 101/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[01:21:43] [Craft Scheduler Thread - 107/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[01:41:43] [Craft Scheduler Thread - 105/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[02:01:43] [Craft Scheduler Thread - 107/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[02:21:43] [Craft Scheduler Thread - 107/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[02:41:43] [Craft Scheduler Thread - 100/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[03:01:43] [Craft Scheduler Thread - 107/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[03:21:43] [Craft Scheduler Thread - 100/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[03:41:43] [Craft Scheduler Thread - 114/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[04:01:43] [Craft Scheduler Thread - 115/INFO]: [AnimatedScoreboard] Checking for an update!
+[04:01:43] [Craft Scheduler Thread - 109/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[04:01:43] [Craft Scheduler Thread - 111/INFO]: [Vault] Checking for Updates ... 
+[04:01:43] [Craft Scheduler Thread - 111/INFO]: [Vault] No new version available
+[04:01:43] [Craft Scheduler Thread - 115/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[04:21:43] [Craft Scheduler Thread - 116/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[04:41:43] [Craft Scheduler Thread - 118/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[05:01:43] [Craft Scheduler Thread - 120/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[05:21:43] [Craft Scheduler Thread - 123/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[05:41:43] [Craft Scheduler Thread - 111/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[06:01:43] [Craft Scheduler Thread - 111/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[06:21:43] [Craft Scheduler Thread - 128/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[06:41:43] [Craft Scheduler Thread - 125/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[07:01:43] [Craft Scheduler Thread - 126/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[07:21:43] [Craft Scheduler Thread - 125/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[07:41:43] [Craft Scheduler Thread - 128/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[08:01:43] [Craft Scheduler Thread - 128/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[08:21:43] [Craft Scheduler Thread - 132/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[08:41:43] [Craft Scheduler Thread - 134/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[09:01:43] [Craft Scheduler Thread - 125/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[09:21:43] [Craft Scheduler Thread - 136/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[09:32:55] [User Authenticator #14/INFO]: UUID of player Ulimundo is c8e51f6b-c7c9-3368-a340-f2cbb0e10015
+[09:32:55] [Server thread/INFO]: Ulimundo joined the game
+[09:32:55] [Server thread/INFO]: Ulimundo[/192.168.200.1:1447] logged in with entity id 99334 at ([world]159.24709737674516, 65.0, -609.5580427186222)
+[09:41:43] [Craft Scheduler Thread - 132/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[09:49:08] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[09:49:16] [Server thread/INFO]: [EconomyShopGUI] Ulimundo vendido 120 x Cobblestone para $20.40 con el pantalla de venta.
+[09:49:19] [Server thread/ERROR]: Could not pass event InventoryClickEvent to EconomyShopGUI v4.8.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2653) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:13) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1150) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:131) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1129) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1122) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.bq(SourceFile:116) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1105) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1014) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "sellPrice" is null
+	at me.gypopo.economyshopgui.events.MenuHandler.onMenuClick(MenuHandler.java:190) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor86.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 20 more
+[09:58:34] [User Authenticator #15/INFO]: UUID of player ghotzer is 890fb5c4-49a9-3263-b113-04801b491975
+[09:58:34] [Server thread/INFO]: ghotzer joined the game
+[09:58:34] [Server thread/INFO]: ghotzer[/192.168.200.1:55329] logged in with entity id 101728 at ([world]902.5, 68.5, -702.5)
+[10:01:38] [Server thread/INFO]: ghotzer lost connection: Disconnected
+[10:01:38] [Server thread/INFO]: ghotzer left the game
+[10:01:43] [Craft Scheduler Thread - 137/INFO]: [AnimatedScoreboard] Checking for an update!
+[10:01:43] [Craft Scheduler Thread - 138/INFO]: [Vault] Checking for Updates ... 
+[10:01:43] [Craft Scheduler Thread - 134/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[10:01:43] [Craft Scheduler Thread - 138/INFO]: [Vault] No new version available
+[10:01:43] [Craft Scheduler Thread - 137/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[10:10:58] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[10:11:04] [Server thread/INFO]: [EconomyShopGUI] Ulimundo vendido 322 x Cobblestone para $54.74 con el pantalla de venta.
+[10:11:08] [Server thread/ERROR]: Could not pass event InventoryClickEvent to EconomyShopGUI v4.8.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2653) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:13) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1150) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:131) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1129) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1122) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:140) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1106) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1014) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "sellPrice" is null
+	at me.gypopo.economyshopgui.events.MenuHandler.onMenuClick(MenuHandler.java:190) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor86.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 20 more
+[10:21:43] [Craft Scheduler Thread - 137/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[10:22:05] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[10:22:09] [Server thread/INFO]: [EconomyShopGUI] Ulimundo vendido 20 x Cobblestone para $3.40 con el pantalla de venta.
+[10:22:11] [Server thread/ERROR]: Could not pass event InventoryClickEvent to EconomyShopGUI v4.8.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2653) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:13) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1150) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:131) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1129) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1122) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:140) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1106) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1014) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "sellPrice" is null
+	at me.gypopo.economyshopgui.events.MenuHandler.onMenuClick(MenuHandler.java:190) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor86.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 20 more
+[10:22:12] [Server thread/ERROR]: Could not pass event InventoryClickEvent to EconomyShopGUI v4.8.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2653) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:13) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1150) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:131) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1129) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1122) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:140) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1106) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1014) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "sellPrice" is null
+	at me.gypopo.economyshopgui.events.MenuHandler.onMenuClick(MenuHandler.java:190) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor86.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 20 more
+[10:22:22] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[10:26:13] [User Authenticator #16/INFO]: UUID of player MatiCS97 is 9b8ac8f6-95c8-3da3-8cda-b171e0456284
+[10:26:13] [Server thread/INFO]: MatiCS97 joined the game
+[10:26:13] [Server thread/INFO]: MatiCS97[/192.168.200.1:30397] logged in with entity id 105136 at ([world]995.4322891194639, 63.0, -673.0749999880791)
+[10:27:12] [Server thread/INFO]: Ulimundo issued server command: /HOME
+[10:27:34] [Server thread/INFO]: MatiCS97 issued server command: /tp Ulimundo
+[10:30:56] [Server thread/INFO]: Ulimundo has made the advancement [Isn't It Iron Pick]
+[10:36:07] [Server thread/INFO]: MatiCS97 lost connection: Disconnected
+[10:36:07] [Server thread/INFO]: MatiCS97 left the game
+[10:41:43] [Craft Scheduler Thread - 143/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[10:51:55] [Server thread/INFO]: Ulimundo has made the advancement [Diamonds!]
+[10:59:21] [Server thread/INFO]: Ulimundo has made the advancement [Suit Up]
+[11:01:43] [Craft Scheduler Thread - 140/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[11:20:52] [Server thread/INFO]: Ulimundo was shot by Lvl 5 | Skeleton
+[11:21:01] [Server thread/INFO]: Ulimundo issued server command: /BACK
+[11:21:12] [Server thread/INFO]: Ulimundo issued server command: /HOME
+[11:21:43] [Craft Scheduler Thread - 140/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[11:23:30] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[11:23:34] [Server thread/INFO]: [EconomyShopGUI] Ulimundo vendido 124 x Cobblestone para $21.08 con el pantalla de venta.
+[11:23:47] [Server thread/INFO]: Ulimundo issued server command: /SHOP
+[11:23:56] [Server thread/ERROR]: Could not pass event InventoryClickEvent to EconomyShopGUI v4.8.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2653) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.game.PacketPlayInWindowClick.a(SourceFile:13) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1150) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:131) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1129) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1122) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:140) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1106) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1014) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3553-Spigot-14a2382-ef09464]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "sellPrice" is null
+	at me.gypopo.economyshopgui.events.MenuHandler.onMenuClick(MenuHandler.java:190) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor86.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 20 more
+[11:30:14] [Server thread/INFO]: Ulimundo has made the advancement [Take Aim]
+[11:32:58] [Server thread/INFO]: Ulimundo has made the advancement [Monster Hunter]
+[11:34:25] [Server thread/INFO]: Ulimundo issued server command: /HOME
+[11:34:53] [Server thread/INFO]: Ulimundo lost connection: Disconnected
+[11:34:53] [Server thread/INFO]: Ulimundo left the game
+[11:41:43] [Craft Scheduler Thread - 137/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[12:01:43] [Craft Scheduler Thread - 149/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[12:10:00] [User Authenticator #17/INFO]: UUID of player Ulimundo is c8e51f6b-c7c9-3368-a340-f2cbb0e10015
+[12:10:00] [Server thread/INFO]: Ulimundo joined the game
+[12:10:00] [Server thread/INFO]: Ulimundo[/192.168.200.1:1058] logged in with entity id 113034 at ([world]160.92678427451534, 65.0, -601.0789503035354)
+[12:17:18] [User Authenticator #18/INFO]: UUID of player MatiCS97 is 9b8ac8f6-95c8-3da3-8cda-b171e0456284
+[12:17:18] [Server thread/INFO]: MatiCS97 joined the game
+[12:17:18] [Server thread/INFO]: MatiCS97[/192.168.200.1:21588] logged in with entity id 114106 at ([world]863.2006883163982, 65.0, -704.0106573713117)
+[12:18:00] [Server thread/INFO]: Ulimundo lost connection: Disconnected
+[12:18:00] [Server thread/INFO]: Ulimundo left the game
+[12:21:43] [Craft Scheduler Thread - 146/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[12:21:47] [Server thread/INFO]: MatiCS97 issued server command: /shop
+[12:22:22] [Server thread/INFO]: MatiCS97 issued server command: /money give MatiCS97 5000000
+[12:22:40] [Server thread/INFO]: MatiCS97 issued server command: /eco give MatiCS97 5000000
+[12:22:47] [Server thread/INFO]: MatiCS97 issued server command: /shop
+[12:23:04] [Server thread/INFO]: [EconomyShopGUI] §4MatiCS97§r compró 1 x Spawner para $120,000 con el comprar pantalla.
+[12:23:48] [Server thread/WARN]: [EconomyShopGUI] Player MatiCS97 tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{SPAWNER x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, internal=H4sIAAAAAAAA/+NiYOBiYHUNdg/15GDgDi5ILM9LLQqpLEhlYHH3dwxhYAAAgRbwbSEAAAA=, blockMaterial=SPAWNER}}
+[12:23:59] [Server thread/WARN]: [EconomyShopGUI] Player MatiCS97 tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{SPAWNER x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, internal=H4sIAAAAAAAA/+NiYOBiYHUNdg/15GDgDi5ILM9LLQqpLEhlYHH3dwxhYAAAgRbwbSEAAAA=, blockMaterial=SPAWNER}}
+[12:24:08] [Server thread/INFO]: MatiCS97 issued server command: /shop
+[12:24:39] [Server thread/INFO]: [EconomyShopGUI] §4MatiCS97§r compró 1 x §c[§bZombie Spawner§c] para $120,000 con el comprar pantalla.
+[12:26:40] [Server thread/INFO]: MatiCS97 issued server command: /night
+[12:26:49] [Server thread/INFO]: MatiCS97 issued server command: /survivalmode
+[12:30:04] [Server thread/INFO]: MatiCS97 lost connection: Disconnected
+[12:30:04] [Server thread/INFO]: MatiCS97 left the game
+[12:31:04] [User Authenticator #19/INFO]: UUID of player MatiCS97 is 9b8ac8f6-95c8-3da3-8cda-b171e0456284
+[12:31:05] [Server thread/INFO]: MatiCS97 joined the game
+[12:31:05] [Server thread/INFO]: MatiCS97[/192.168.200.1:39965] logged in with entity id 116051 at ([world]1012.9610505804255, 67.0, -760.2322359019645)
+[12:33:24] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.create
+[12:33:24] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:33:24] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.create true[m
+[12:33:32] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.destroy
+[12:33:32] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:33:32] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.destroy true[m
+[12:33:42] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.merge
+[12:33:42] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:33:42] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.merge true[m
+[12:33:50] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.unclaim
+[12:33:50] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:33:50] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.unclaim true[m
+[12:33:58] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.view
+[12:33:58] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:33:58] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.view true[m
+[12:34:14] [Server thread/INFO]: MatiCS97 issued server command: /lp group miembro permission set protectionstones.info
+[12:34:14] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mmiembro[0;30;1m)[m
+[12:34:14] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.info true[m
+[12:34:23] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.create
+[12:34:33] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.destroy
+[12:34:42] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.merge
+[12:34:52] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.unclaim
+[12:35:02] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.view
+[12:35:02] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[12:35:02] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.view true[m
+[12:35:12] [Server thread/INFO]: MatiCS97 issued server command: /lp group default permission set protectionstones.info
+[12:35:12] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mMatiCS97[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[12:35:12] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mpermission set protectionstones.info true[m
+[12:36:30] [Server thread/INFO]: MatiCS97 issued server command: /ps reload
+[12:36:30] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[12:36:30] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (8)
+[12:36:30] [Server thread/WARN]: [ProtectionStones] Unrecognized material: STAINED_GLASS_PANE
+[12:36:30] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[12:36:30] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[12:36:30] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (32)
+[12:36:43] [Server thread/INFO]: MatiCS97 issued server command: /ps sell
+[12:37:22] [Server thread/INFO]: MatiCS97 issued server command: /placeholderapi info vault
+[12:37:34] [Server thread/INFO]: MatiCS97 issued server command: /placeholderapi info world
+[12:37:50] [Server thread/INFO]: MatiCS97 issued server command: /shop add
+[12:37:57] [Server thread/INFO]: MatiCS97 issued server command: /shop
+[12:38:42] [Server thread/INFO]: MatiCS97 issued server command: /home casa
+[12:41:43] [Craft Scheduler Thread - 146/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[12:43:35] [Server thread/INFO]: MatiCS97 issued server command: /info block
+[12:43:39] [Server thread/INFO]: MatiCS97 issued server command: /info
+[12:44:01] [Server thread/INFO]: MatiCS97 issued server command: /tool info
+[12:44:29] [Server thread/INFO]: MatiCS97 issued server command: /tool info
+[12:44:52] [Server thread/INFO]: MatiCS97 issued server command: /ps give 32 MatiCS97
+[12:45:34] [Server thread/INFO]: MatiCS97 issued server command: /info
+[12:46:12] [Server thread/INFO]: MatiCS97 issued server command: /ps info
+[12:46:12] [Server thread/INFO]: §cThis region is problematic, and the block type (IRON_ORE) is not configured.
+[12:46:31] [Server thread/INFO]: MatiCS97 issued server command: /creativemode
+[12:46:54] [Server thread/INFO]: MatiCS97 issued server command: /day
+[12:47:13] [Server thread/WARN]: [EconomyShopGUI] Player MatiCS97 tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=935}}
+[12:47:42] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[12:53:19] [Server thread/INFO]: MatiCS97 issued server command: /ps reload
+[12:53:19] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[12:53:19] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (8)
+[12:53:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: STAINED_GLASS_PANE
+[12:53:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[12:53:19] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[12:53:19] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (32)
+[12:53:36] [Server thread/INFO]: MatiCS97 issued server command: /ps give 64 MatiCS97
+[12:54:38] [Server thread/INFO]: MatiCS97 issued server command: /ps reload
+[12:54:38] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[12:54:38] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (8)
+[12:54:38] [Server thread/WARN]: [ProtectionStones] Unrecognized material: STAINED_GLASS_PANE
+[12:54:38] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[12:54:38] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[12:54:38] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (32)
+[12:54:51] [Server thread/INFO]: MatiCS97 issued server command: /ps get 64
+[12:55:54] [Server thread/INFO]: MatiCS97 issued server command: /ps reload
+[12:55:54] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[12:55:54] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (8)
+[12:55:54] [Server thread/WARN]: [ProtectionStones] Unrecognized material: STAINED_GLASS_PANE
+[12:55:54] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[12:55:54] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[12:55:54] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (32)
+[12:56:09] [Server thread/INFO]: MatiCS97 lost connection: Disconnected
+[12:56:09] [Server thread/INFO]: MatiCS97 left the game
+[12:56:12] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[13:01:43] [Craft Scheduler Thread - 137/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[13:21:43] [Craft Scheduler Thread - 137/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[13:41:43] [Craft Scheduler Thread - 150/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[14:01:43] [Craft Scheduler Thread - 158/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[14:21:43] [Craft Scheduler Thread - 157/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[14:41:43] [Craft Scheduler Thread - 161/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[15:01:43] [Craft Scheduler Thread - 162/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[15:21:43] [Craft Scheduler Thread - 162/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[15:41:43] [Craft Scheduler Thread - 159/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[16:01:43] [Craft Scheduler Thread - 159/INFO]: [AnimatedScoreboard] Checking for an update!
+[16:01:43] [Craft Scheduler Thread - 160/INFO]: [MoneyHunters] Auto-save: Saved 0 online users | 0 offline users.
+[16:01:43] [Craft Scheduler Thread - 166/INFO]: [Vault] Checking for Updates ... 
+[16:01:43] [Craft Scheduler Thread - 166/INFO]: [Vault] No new version available
+[16:01:43] [Craft Scheduler Thread - 159/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[16:14:29] [User Authenticator #20/INFO]: UUID of player Ulimundo is c8e51f6b-c7c9-3368-a340-f2cbb0e10015
+[16:14:30] [Server thread/INFO]: Ulimundo joined the game
+[16:14:30] [Server thread/INFO]: Ulimundo[/192.168.200.1:1086] logged in with entity id 117992 at ([world]159.03882680496332, 13.0, -394.30206846728936)
+[16:14:40] [Server thread/INFO]: Ulimundo lost connection: Disconnected
+[16:14:40] [Server thread/INFO]: Ulimundo left the game
+[16:14:43] [User Authenticator #21/INFO]: UUID of player Ulimundo is c8e51f6b-c7c9-3368-a340-f2cbb0e10015
+[16:14:43] [Server thread/INFO]: Ulimundo joined the game
+[16:14:43] [Server thread/INFO]: Ulimundo[/192.168.200.1:1229] logged in with entity id 118158 at ([world]159.03882680496332, 13.0, -394.30206846728936)
+[16:19:39] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:19:48] [Server thread/INFO]: [0;33;1m[9m--------------------[m Help [0;33;1m[9m--------------------[m
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//[m: Toggle the super pickaxe function
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/.s[m: Execute last CraftScript
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/ascend[m: Go up a floor
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomeinfo[m: Get the biome of the targeted block.
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomelist[m: Gets all biomes available.
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/brush[m: Brushing commands
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/butcher[m: Kill all or nearby mobs
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//calculate[m: Evaluate a mathematical expression
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/ceil[m: Go to the ceiling
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//center[m: Set the center block(s)
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//chunk[m: Set the selection to your current chunk.
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/chunkinfo[m: Get information about the chunk you're inside
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearclipboard[m: Clear your clipboard
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearhistory[m: Clear your history
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//contract[m: Contract the selection area
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//copy[m: Copy the selection to the clipboard
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//count[m: Counts the number of blocks matching a mask
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m/cs[m: Execute a CraftScript
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//curve[m: Draws a spline through selected points
+[16:19:48] [Server thread/INFO]: [0;37;22m? [0;33;22m//cut[m: Cut the selection to the clipboard
+[16:19:48] [Server thread/INFO]: [0;33;1m[9m-----------------[m [0;33;1mPage [0;33;22m1[0;33;1m of [0;33;22m6[m [0;33;1m[9m-----------------[m
+[16:19:55] [Server thread/INFO]: [0;33;1m[9m--------------------[m Help [0;33;1m[9m--------------------[m
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//[m: Toggle the super pickaxe function
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/.s[m: Execute last CraftScript
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/ascend[m: Go up a floor
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomeinfo[m: Get the biome of the targeted block.
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomelist[m: Gets all biomes available.
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/brush[m: Brushing commands
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/butcher[m: Kill all or nearby mobs
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//calculate[m: Evaluate a mathematical expression
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/ceil[m: Go to the ceiling
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//center[m: Set the center block(s)
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//chunk[m: Set the selection to your current chunk.
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/chunkinfo[m: Get information about the chunk you're inside
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearclipboard[m: Clear your clipboard
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearhistory[m: Clear your history
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//contract[m: Contract the selection area
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//copy[m: Copy the selection to the clipboard
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//count[m: Counts the number of blocks matching a mask
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m/cs[m: Execute a CraftScript
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//curve[m: Draws a spline through selected points
+[16:19:55] [Server thread/INFO]: [0;37;22m? [0;33;22m//cut[m: Cut the selection to the clipboard
+[16:19:55] [Server thread/INFO]: [0;33;1m[9m-----------------[m [0;33;1mPage [0;33;22m1[0;33;1m of [0;33;22m6[m [0;33;1m[9m-----------------[m
+[16:20:02] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[16:20:02] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[16:20:02] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mAnimatedScoreboard: [0;37;1mAll commands for AnimatedScoreboard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mAntiXRay: [0;37;1mAll commands for AntiXRay[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mChunky: [0;37;1mAll commands for Chunky[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mEconomyShopGUI: [0;37;1mAll commands for EconomyShopGUI[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mEssentials: [0;37;1mAll commands for Essentials[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mEssentialsSpawn: [0;37;1mAll commands for EssentialsSpawn[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mLevelledMobs: [0;37;1mAll commands for LevelledMobs[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mLuckPerms: [0;37;1mAll commands for LuckPerms[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mMoneyHunters: [0;37;1mAll commands for MoneyHunters[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mNexEngine: [0;37;1mAll commands for NexEngine[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mPlaceholderAPI: [0;37;1mAll commands for PlaceholderAPI[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mVault: [0;37;1mAll commands for Vault[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mWorldEdit: [0;37;1mAll commands for WorldEdit[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22mWorldGuard: [0;37;1mAll commands for WorldGuard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/.s: [0;37;1mExecute last CraftScript[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//: [0;37;1mToggle the super pickaxe function[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//calculate: [0;37;1mEvaluate a mathematical expression[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//center: [0;37;1mSet the center block(s)[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//chunk: [0;37;1mSet the selection to your current chunk.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//contract: [0;37;1mContract the selection area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//copy: [0;37;1mCopy the selection to the clipboard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//count: [0;37;1mCounts the number of blocks matching a mask[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//curve: [0;37;1mDraws a spline through selected points[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//cut: [0;37;1mCut the selection to the clipboard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//cyl: [0;37;1mGenerates a cylinder.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//deform: [0;37;1mDeforms a selected region with an expression[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//distr: [0;37;1mGet the distribution of blocks in the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//drain: [0;37;1mDrain a pool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//drawsel: [0;37;1mToggle drawing the current selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//expand: [0;37;1mExpand the selection area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//faces: [0;37;1mBuild the walls, ceiling, and floor of a selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//fast: [0;37;1mToggle fast mode[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//fill: [0;37;1mFill a hole[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//fillr: [0;37;1mFill a hole recursively[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//flip: [0;37;1mFlip the contents of the clipboard across the origin[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//flora: [0;37;1mMake flora within the region[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//forest: [0;37;1mMake a forest within the region[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//generate: [0;37;1mGenerates a shape according to a formula.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//generatebiome: [0;37;1mSets biome according to a formula.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hcyl: [0;37;1mGenerates a hollow cylinder.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//help: [0;37;1mDisplays help for WorldEdit commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hollow: [0;37;1mHollows out the object contained in this selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hpos1: [0;37;1mSet position 1 to targeted block[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hpos2: [0;37;1mSet position 2 to targeted block[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hpyramid: [0;37;1mGenerate a hollow pyramid[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//hsphere: [0;37;1mGenerates a hollow sphere.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//inset: [0;37;1mInset the selection area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//limit: [0;37;1mModify block change limit[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//line: [0;37;1mDraws line segments between cuboid selection corners or convex polyhedral selection vertices[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//move: [0;37;1mMove the contents of the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//naturalize: [0;37;1m3 layers of dirt on top then rock below[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//outset: [0;37;1mOutset the selection area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//overlay: [0;37;1mSet a block on top of blocks in the region[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//paste: [0;37;1mPaste the clipboard's contents[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//perf: [0;37;1mToggle side effects for performance[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//pos1: [0;37;1mSet position 1[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//pos2: [0;37;1mSet position 2[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//pyramid: [0;37;1mGenerate a filled pyramid[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//regen: [0;37;1mRegenerates the contents of the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//reorder: [0;37;1mSets the reorder mode of WorldEdit[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//replace: [0;37;1mReplace all blocks in the selection with another[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//rotate: [0;37;1mRotate the contents of the clipboard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//sel: [0;37;1mChoose a region selector[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//set: [0;37;1mSets all the blocks in the region[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//setbiome: [0;37;1mSets the biome of your current block or region.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//shift: [0;37;1mShift the selection area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//size: [0;37;1mGet information about the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//smooth: [0;37;1mSmooth the elevation in the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//sphere: [0;37;1mGenerates a filled sphere.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//stack: [0;37;1mRepeat the contents of the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//timeout: [0;37;1mModify evaluation timeout time.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//walls: [0;37;1mBuild the four sides of the selection[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//wand: [0;37;1mGet the wand item[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//watchdog: [0;37;1mChanges watchdog hook state.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m//world: [0;37;1mSets the world override[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/afk: [0;37;1mMarks you as away-from-keyboard.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/allowfire: [0;37;1m[<world>] - Allows all fire spread temporarily[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/animatedscoreboard: [0;37;1manimatedscoreboard command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/antioch: [0;37;1mA little surprise for operators.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/antixray: [0;37;1mAntixray commands.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/anvil: [0;37;1mOpens up an anvil.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ascend: [0;37;1mGo up a floor[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/back: [0;37;1mTeleports you to your location prior to tp/spawn/warp.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/backup: [0;37;1mRuns the backup if configured.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/balance: [0;37;1mStates the current balance of a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/balancetop: [0;37;1mGets the top balance values.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mBans a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/banip: [0;37;1mBans an IP address.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/beezooka: [0;37;1mThrow an exploding bee at your opponent.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/bigtree: [0;37;1mSpawn a big tree where you are looking.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/biomeinfo: [0;37;1mGet the biome of the targeted block.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/biomelist: [0;37;1mGets all biomes available.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/book: [0;37;1mAllows reopening and editing of sealed books.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/break: [0;37;1mBreaks the block you are looking at.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/broadcast: [0;37;1mBroadcasts a message to the entire server.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/broadcastworld: [0;37;1mBroadcasts a message to a world.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/brush: [0;37;1mBrushing commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/bukkit:help: [0;37;1mShows the help menu[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/burn: [0;37;1mSet a player on fire.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/butcher: [0;37;1mKill all or nearby mobs[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/cartographytable: [0;37;1mOpens up a cartography table.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ceil: [0;37;1mGo to the ceiling[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/chunkinfo: [0;37;1mGet information about the chunk you're inside[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/chunky: [0;37;1mGenerates chunks[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/clearclipboard: [0;37;1mClear your clipboard[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/clearhistory: [0;37;1mClear your history[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/clearinventory: [0;37;1mClear all items in your inventory.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/clearinventoryconfirmtoggle: [0;37;1mToggles whether you are prompted to confirm inventory clears.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/compass: [0;37;1mDescribes your current bearing.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/condense: [0;37;1mCondenses items into a more compact blocks.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/createkit: [0;37;1mCreate a kit in game![m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/cs: [0;37;1mExecute a CraftScript[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/customtext: [0;37;1mAllows you to create custom text commands.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/cycler: [0;37;1mBlock data cycler tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/delchunks: [0;37;1mDelete chunks that your selection includes[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/delhome: [0;37;1mRemoves a home.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/deljail: [0;37;1mRemoves a jail.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/delkit: [0;37;1mDeletes the specified kit.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/deltree: [0;37;1mFloating tree remover tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/delwarp: [0;37;1mDeletes the specified warp.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/depth: [0;37;1mStates current depth, relative to sea level.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/descend: [0;37;1mGo down a floor[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/disposal: [0;37;1mOpens a portable disposal menu.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/eco: [0;37;1mManages the server economy.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/editshop: [0;37;1mAllows to edit the shop with ingame commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/editsign: [0;37;1mEdits a sign in the world.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mEnchants the item the user is holding.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/enderchest: [0;37;1mLets you see inside an enderchest.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/essentials: [0;37;1mReloads essentials.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/essentials:info: [0;37;1mShows information set by the server owner.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/essentials:remove: [0;37;1mRemoves entities in your world.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/essentials:tree: [0;37;1mSpawn a tree where you are looking.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/exp: [0;37;1mGive, set, reset, or look at a players experience.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ext: [0;37;1mExtinguish players.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/extinguish: [0;37;1mExtinguish nearby fire[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/farwand: [0;37;1mWand at a distance tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/feed: [0;37;1mSatisfy the hunger.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/fireball: [0;37;1mThrow a fireball or other assorted projectiles.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/firework: [0;37;1mAllows you to modify a stack of fireworks.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/fixlava: [0;37;1mFix lava to be stationary[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/fixwater: [0;37;1mFix water to be stationary[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/floodfill: [0;37;1mFlood fill tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/fly: [0;37;1mTake off, and soar![m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/forestgen: [0;37;1mGenerate a forest[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mChange player gamemode.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/gc: [0;37;1mReports memory, uptime and tick info.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/getpos: [0;37;1mGet your current coordinates or those of a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mGive a player an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/gmask: [0;37;1mSet the global mask[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/god: [0;37;1mEnables your godly powers.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/green: [0;37;1mConverts dirt to grass blocks in the area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/grindstone: [0;37;1mOpens up a grindstone.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/halt-activity: [0;37;1m[confirm] - Attempts to cease as much activity in order to stop lag[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/hat: [0;37;1mGet some cool new headgear.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/heal: [0;37;1mHeals you or the given player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mViews a list of available commands.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/helpop: [0;37;1mMessage online admins.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/home: [0;37;1mTeleport to your home.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ice: [0;37;1mCools a player off.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ignore: [0;37;1mIgnore or unignore other players.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/info: [0;37;1mBlock information tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/invsee: [0;37;1mSee the inventory of other players.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mSpawn an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/itemdb: [0;37;1mSearches for an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/itemlore: [0;37;1mEdit the lore of an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/itemname: [0;37;1mNames an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/jails: [0;37;1mList all jails.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/jump: [0;37;1mJumps to the nearest block in the line of sight.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/jumpto: [0;37;1mTeleport to a location[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mKicks a specified player with a reason.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kickall: [0;37;1mKicks all players off the server except the issuer.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mKills specified player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kit: [0;37;1mObtains the specified kit or views all available kits.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kitreset: [0;37;1mResets the cooldown on the specified kit.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/kittycannon: [0;37;1mThrow an exploding kitten at your opponent.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/levelledmobs: [0;37;1mManage the LevelledMobs plugin[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/lightning: [0;37;1mThe power of Thor. Strike at cursor or player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mList all online players.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/listchunks: [0;37;1mList chunks that your selection includes[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/loom: [0;37;1mOpens up a loom.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/lrbuild: [0;37;1mLong-range building tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/luckperms: [0;37;1mManage permissions[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/mail: [0;37;1mManages inter-player, intra-server mail.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/mask: [0;37;1mSet the brush mask[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/material: [0;37;1mSet the brush material[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mDescribes an action in the context of the player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:ban: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:clear: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:enchant: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:gamemode: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:give: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:item: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:kick: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:kill: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:list: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:lp: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:lp: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:luckperms: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perm: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permission: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permissions: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perms: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:me: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:msg: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:pardon: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perm: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permission: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permissions: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perms: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:recipe: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:teleport: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:time: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:tp: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:w: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:weather: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:xp: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/moneyhunters: [0;37;1m[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/more: [0;37;1mFills the item stack in hand to specified amount, or to maximum size if none is specified.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/motd: [0;37;1mViews the Message Of The Day.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mSends a private message to the specified player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/msgtoggle: [0;37;1mBlocks receiving all private messages.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/mute: [0;37;1mMutes or unmutes a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/navwand: [0;37;1mNavigation wand tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/near: [0;37;1mLists the players near by or around a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/nexengine: [0;37;1m[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/nick: [0;37;1mChange your nickname or that of another player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/none: [0;37;1mUnbind a bound tool from your current item[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/nuke: [0;37;1mMay death rain upon them.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/pay: [0;37;1mPays another player from your balance.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/payconfirmtoggle: [0;37;1mToggles whether you are prompted to confirm payments.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/paytoggle: [0;37;1mToggles whether you are accepting payments.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ping: [0;37;1mPong![m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/place: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/placeholderapi: [0;37;1mPlaceholderAPI Command[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/playtime: [0;37;1mShows a player's time played in game[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/potion: [0;37;1mAdds custom potion effects to a potion.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/powertool: [0;37;1mAssigns a command to the item in hand.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/powertooltoggle: [0;37;1mEnables or disables all current powertools.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ps: [0;37;1m[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/ptime: [0;37;1mAdjust player's client time. Add @ prefix to fix.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/pumpkins: [0;37;1mGenerate pumpkin patches[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/pweather: [0;37;1mAdjust a player's weather[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/r: [0;37;1mQuickly reply to the last player to message you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/range: [0;37;1mSet the brush range[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/realname: [0;37;1mDisplays the username of a user based on nick.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mDisplays how to craft items.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/redo: [0;37;1mRedoes the last action (from history)[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/region: [0;37;1mRegion management commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/remove: [0;37;1mRemove all entities of a type[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/removeabove: [0;37;1mRemove blocks above your head.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/removebelow: [0;37;1mRemove blocks below you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/removenear: [0;37;1mRemove blocks near you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/repair: [0;37;1mRepairs the durability of one or all items.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/repl: [0;37;1mBlock replacer tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/replacenear: [0;37;1mReplace nearby blocks[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/rest: [0;37;1mRests you or the given player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/restore: [0;37;1mRestore the selection from a snapshot[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/rtoggle: [0;37;1mChange whether the recipient of the reply is last recipient or last sender[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/rules: [0;37;1mViews the server rules.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/schematic: [0;37;1mSchematic commands for saving/loading areas[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/searchitem: [0;37;1mSearch for an item[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/seen: [0;37;1mShows the last logout time of a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sell: [0;37;1mSells the item currently in your hand.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sellall: [0;37;1mSell all items from your inventory, hand items or specific items[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sellgui: [0;37;1mOpens the sell GUI[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/selwand: [0;37;1mSelection wand tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sethome: [0;37;1mSet your home to your current location.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setjail: [0;37;1mCreates a jail where you specified named [jailname].[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setspawn: [0;37;1mSets the spawn point to your current position.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/settpr: [0;37;1mSet the random teleport location and parameters.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setwarp: [0;37;1mCreates a new warp.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/setworth: [0;37;1mSet the sell value of an item.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/shop: [0;37;1mOpens the server shop[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/showkit: [0;37;1mShow contents of a kit.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/size: [0;37;1mSet the brush size[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/skull: [0;37;1mSet the owner of a player skull[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/smithingtable: [0;37;1mOpens up a smithing table.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/snapshot: [0;37;1mSnapshot commands for restoring backups[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/snow: [0;37;1mSimulates snow[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/socialspy: [0;37;1mToggles if you can see msg/mail commands in chat.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spawn: [0;37;1mTeleports to the spawn point.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spawner: [0;37;1mChange the mob type of a spawner.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnmob: [0;37;1mSpawns a mob.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/speed: [0;37;1mChange your speed limits.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sreload: [0;37;1mReloads the plugin.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/stonecutter: [0;37;1mOpens up a stonecutter.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/stopfire: [0;37;1m[<world>] - Disables all fire spread temporarily[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/sudo: [0;37;1mMake another user perform a command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/suicide: [0;37;1mCauses you to perish.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/superpickaxe: [0;37;1mSuper-pickaxe commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tempban: [0;37;1mTemporary ban a user.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tempbanip: [0;37;1mTemporarily ban an IP Address.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/thaw: [0;37;1mThaws the area[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/thru: [0;37;1mPass through walls[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/thunder: [0;37;1mEnable/disable thunder.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mDisplay/Change the world time. Defaults to current world.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/toggleeditwand: [0;37;1mRemind the user that the wand is now a tool and can be unbound with /tool none.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/togglejail: [0;37;1mJails/Unjails a player, TPs them to the jail specified.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/toggleplace: [0;37;1mSwitch between your position and pos1 for placement[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tool: [0;37;1mBinds a tool to the item in your hand[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/top: [0;37;1mTeleport to the highest block at your current position.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mTeleport to a player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpa: [0;37;1mRequest to teleport to the specified player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpaall: [0;37;1mRequests all players online to teleport to you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpacancel: [0;37;1mCancel all outstanding teleport requests. Specify [player] to cancel requests with them.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpaccept: [0;37;1mAccepts teleport requests.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpahere: [0;37;1mRequest that the specified player teleport to you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpall: [0;37;1mTeleport all online players to another player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpauto: [0;37;1mAutomatically accept teleportation requests.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpdeny: [0;37;1mRejects teleport requests.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tphere: [0;37;1mTeleport a player to you.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpo: [0;37;1mTeleport override for tptoggle.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpoffline: [0;37;1mTeleport to a player's last known logout location[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpohere: [0;37;1mTeleport here override for tptoggle.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tppos: [0;37;1mTeleport to coordinates.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tpr: [0;37;1mTeleport randomly.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tptoggle: [0;37;1mBlocks all forms of teleportation.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tracemask: [0;37;1mSet the mask used to stop tool traces[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/tree: [0;37;1mTree generator tool[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/unban: [0;37;1mUnbans the specified player.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/unbanip: [0;37;1mUnbans the specified IP address.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/undo: [0;37;1mUndoes the last action (from history)[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/unlimited: [0;37;1mAllows the unlimited placing of items.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/unstuck: [0;37;1mEscape from being stuck inside a block[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/up: [0;37;1mGo upwards some distance[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/vanish: [0;37;1mHide yourself from other players.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/vault-convert: [0;37;1mConverts all data in economy1 and dumps it into economy2[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/vault-info: [0;37;1mDisplays information about Vault[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/warp: [0;37;1mList all warps or warp to the specified location.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/warpinfo: [0;37;1mFinds location information for a specified warp.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mSets the weather.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/whois: [0;37;1mDetermine the username behind a nickname.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/workbench: [0;37;1mOpens up a workbench.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/world: [0;37;1mSwitch between worlds.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/worldedit: [0;37;1mWorldEdit commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/worldguard: [0;37;1mWorldGuard commands[m
+[16:20:02] [Server thread/INFO]: [0;37;1m[0;33;22m/worth: [0;37;1mCalculates the worth of items in hand or as specified.[m
+[16:20:38] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:20:41] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:20:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:20:50] [Server thread/INFO]: <Server> test
+[16:21:06] [Server thread/INFO]: <Server> nde uli voy a hacer unas modificaciones en el server
+[16:21:18] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:21:37] [Server thread/INFO]: <Server> 1 hora por ahi va a estar off, a mas tardar
+[16:21:43] [Craft Scheduler Thread - 165/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[16:21:48] [Server thread/INFO]: <Server> aedan soy
+[16:22:09] [Server thread/INFO]: Stopping the server
+[16:22:09] [Server thread/INFO]: Stopping server
+[16:22:09] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.3
+[16:22:09] [Server thread/INFO]: [MoneyHunters] Disabling MoneyHunters v7.0.5 Basic
+[16:22:09] [Server thread/INFO]: [MoneyHunters] Auto-save: Saved 1 online users | 0 offline users.
+[16:22:09] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v3.6.5 b665
+[16:22:09] [Server thread/INFO]: [0;36;1mLevelledMobs:[0;37;22m [0;37;1mTasks: [0;37;22mStopping async nametag auto update task...[m
+[16:22:09] [Server thread/INFO]: [0;36;1mLevelledMobs:[0;37;22m [0;37;1mTasks: [0;37;22mShutting down other async tasks...[m
+[16:22:09] [Server thread/INFO]: [0;36;1mLevelledMobs:[0;37;22m Shut-down complete (took 0ms)[m
+[16:22:09] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[16:22:09] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:22:09] [Server thread/INFO]: Disabling EssentialsSpawn v2.19.5-dev+35-c56a9e6
+[16:22:09] [Server thread/INFO]: [NexEngine] Disabling NexEngine v2.2.3 build-09/08/2022
+[16:22:09] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v4.8.2
+[16:22:09] [Server thread/INFO]: Disabling EssentialsProtect v2.19.5-dev+35-c56a9e6
+[16:22:09] [Server thread/INFO]: Disabling Essentials v2.19.5-dev+35-c56a9e6
+[16:22:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[16:22:09] [Server thread/INFO]: [AnimatedScoreboard] Disabling AnimatedScoreboard v0.2.7
+[16:22:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.12+6240-87f4ae1
+[16:22:09] [Craft Scheduler Thread - 4/INFO]: [0;36;1mLevelledMobs:[0;37;22m Mob processing queue Manager has exited[m
+[16:22:09] [Craft Scheduler Thread - 5/INFO]: [0;36;1mLevelledMobs:[0;37;22m Nametag update queue Manager has exited[m
+[16:22:09] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:22:09] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:22:09] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion vault
+[16:22:09] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin Vault was disabled.
+[16:22:09] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.2
+[16:22:09] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.217
+[16:22:09] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
+[16:22:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[16:22:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:22:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:22:09] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:22:09] [Server thread/INFO]: Saving players
+[16:22:09] [Server thread/INFO]: Ulimundo lost connection: Server closed
+[16:22:09] [Server thread/INFO]: Ulimundo left the game.
+[16:22:09] [Server thread/INFO]: Saving worlds
+[16:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:22:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:22:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:22:13] [Server thread/INFO]: Saving usercache.json

@@ -1,0 +1,182 @@
+Command:
+  Stats:
+    Desc: Show your stats.
+    Usage: '[player]'
+    Display:
+    - '{message: ~prefix: false;}'
+    - '&6&m                  &6&l[ &e&lMy Job Progress &6&l]&6&m                  &6'
+    - '&7'
+    - '&6        Hover mouse on job name for details!'
+    - '&7'
+    - '&6▸ {json: ~showText: %job_description%; ~runCommand: /mh info %job_id%;}%job_name%{end-json}    &6Level:
+      &e%job_level%,    &6Exp: &e%job_exp%&7/&e%job_exp_max%'
+    - '&6&m                                                        &6'
+  Info:
+    Usage: <job>
+    Desc: View info about specified job.
+    Display:
+    - '{message: ~prefix: false;}'
+    - '&6&m                    &6&l[ &e&lJob &7- &e&l%job_name% &6&l]&6&m                    &6'
+    - '&7'
+    - '&6&lDescription:'
+    - '&7%job_description%'
+    - '&7'
+    - '&a&lProgression:'
+    - '&2▸ &aExp: &f%job_exp%&7/&f%job_exp_max%'
+    - '&2▸ &aLevel: &f%job_level%&7/&f%job_level_max%'
+    - '&2▸ &aMoney Modifier: &fx%job_money_modifier%'
+    - '&7'
+    - '&d&lBoosters:'
+    - '&5▸ &d%booster_type%: &5Exp: &7+%booster_exp_modifier_percent%%&7, &5Money:
+      &7+%booster_money_modifier_percent%%&7, &5Timeleft: &7%booster_time_left%'
+    - '&6&m                                                              &6'
+  Booster:
+    Desc: Manage job boosters.
+    Personal:
+      Desc: Manage personal player boosters.
+      Give:
+        Desc: Add/update personal booster for player.
+        Usage: <player> <name> <jobs> <moneyMod> <expMod> <minutes>
+        Done: 'Added personal &fx%booster_money_modifier% Money&7, &fx%booster_exp_modifier%
+          Exp &7booster to &f%player%&7 for &f%booster_time_left%&7. Applicable jobs:
+          &f%booster_jobs%&7.'
+      Remove:
+        Desc: Remove personal booster from user.
+        Usage: <player> <booster_id>
+        Error:
+          Nothing: Player &c%player%&7 does not have booster with id &c%booster_id%&7.
+        Done: Removed personal &f%booster_id% &7booster from &f%player%&7.
+    Global:
+      Desc: Manage global job boosters.
+      Create:
+        Desc: Create/update global job booster.
+        Usage: <name> <jobs> <moneyMod> <expMod> <minutes>
+        Done: 'Created global &fx%booster_money_modifier% Money&7, &fx%booster_exp_modifier%
+          Exp &7booster for &f%booster_time_left%&7. Applicable jobs: &f%booster_jobs%&7.'
+      Remove:
+        Desc: Remove global job booster.
+        Usage: <booster_id>
+        Error:
+          Nothing: No global booster with id &c%booster_id%&7.
+        Done: Removed global job &f%booster_id% &7booster.
+  Exp:
+    Desc: Manage player's job exp.
+    Add:
+      Desc: Add exp to player's job.
+      Usage: <player> <job> <amount> [useBooster]
+      Done: '&7Added &a%amount% &7exp to &a%job_name% &7job for &a%player%&7.'
+    Take:
+      Desc: Take exp from player's job.
+      Usage: <player> <job> <amount>
+      Done: '&7Taken &c%amount% &7exp from &c%job_name% &7job of &c%player%&7.'
+    Set:
+      Desc: Set exp of player's job.
+      Usage: <player> <job> <amount>
+      Done: '&7Set &e%amount% &7exp to &e%job_name% &7job for &e%player%&7.'
+  Level:
+    Desc: Manage player's job levels.
+    Add:
+      Desc: Add level(s) to player's job.
+      Usage: <player> <job> <amount>
+      Done: '&7Added &a%amount% &7level(s) to &a%job_name% &7job for &a%player%&7.'
+    Take:
+      Desc: Take level(s) from player's job.
+      Usage: <player> <job> <amount>
+      Done: '&7Taken &c%amount% &7level(s) from &c%job_name% &7job of &c%player%&7.'
+    Set:
+      Desc: Set level of player's job.
+      Usage: <player> <job> <amount>
+      Done: '&7Set &e%amount% &7level to &e%job_name% &7job for &e%player%&7.'
+  Reset:
+    Desc: Reset (player's) job progress.
+    Usage: <jobId> [player]
+    Done: '&7Reset &f%job_name% &7job progress for &f%player%&7.'
+Booster:
+  Global:
+    Notify:
+    - '{message: ~prefix: false;}'
+    - '&6&m                    &6&l[ &e&lJob Booster &6&l]&6&m                    &6'
+    - '&7'
+    - '&e    There are the following active job boosters:'
+    - '&6        (Hover on booster name for details)'
+    - '&7'
+    - '&6  ▸ {json: ~showText: &7ID: &f%booster_id%|&7Jobs: &f%booster_jobs%;}&e%booster_type%
+      Booster{end-json} &7: &2Exp: &a+%booster_exp_modifier_percent%%&7, &2Money:
+      &a+%booster_money_modifier_percent%%&7, &2Timeleft: &a%booster_time_left%'
+    - '&7'
+    - '&6&m                                                                &6'
+  Personal:
+    Notify:
+    - '{message: ~prefix: false;}'
+    - '&6&m                    &6&l[ &e&lJob Booster &6&l]&6&m                    &6'
+    - '&7'
+    - '&a&l       You received %booster_type% Job Booster!'
+    - '&7'
+    - '&2▸ &aApplicable Jobs: &f%booster_jobs%'
+    - '&2▸ &aExp Modifier: &f+%booster_exp_modifier_percent%%'
+    - '&2▸ &aMoney Modifier: &f+%booster_money_modifier_percent%%'
+    - '&2▸ &aTimeleft: &f%booster_time_left%'
+    - '&7'
+    - '&6&m                                                                &6'
+Currency:
+  Error:
+    Invalid: '&cInvalid currency!'
+Jobs:
+  Reset:
+    Success:
+    - '{message: ~type: TITLES; ~fadeIn: 10; ~stay: 60; ~fadeOut: 20; ~sound: ENTITY_ZOMBIE_BREAK_WOODEN_DOOR;}'
+    - '&e&lJob Reset Completed!'
+    - '&7All&f %job_name%&7 progress and leveling has been reset!'
+  Leveling:
+    Exp:
+      Gain: '{message: ~prefix: false; ~type: ACTION_BAR;}&e&l%job_name%: &6+%exp%
+        exp.'
+      Lose: '&cYou lost &4%exp% exp &cfrom &4%job_name% &cjob.'
+    Level:
+      Up:
+      - '{message: ~prefix: false; ~sound: ENTITY_PLAYER_LEVELUP;}'
+      - '&6&m                      &6&l[ &e&lLEVEL UP! &6&l]&6&m                      &6'
+      - '&6    Your &e&l%job_name% &6level has been increased to &e&l%job_level%&6!'
+      - '&6&m                                                               &6'
+      Down:
+      - '{message: ~prefix: false; ~sound: ENTITY_IRON_GOLEM_DEATH;}'
+      - '&4&m                        &4&l[ &c&lLEVEL DOWN! &4&l]&4&m                        &4'
+      - '&c    Your &4&l%job_name% &clevel has been decreased to &4&l%job_level%&c!'
+      - '&c        Be careful with the actions that cost you job exp.'
+      - '&4&m                                                                       &4'
+Job:
+  Error:
+    InvalidJob: '&cInvalid job!'
+  Objectives:
+    Limits:
+      Notify:
+      - '{message: ~prefix: false;}'
+      - '&4&m                    &4&l[ &c&lJob Daily Limit &4&l]&4&m                    &6'
+      - '&7'
+      - '&cYou have reached daily &e%limit_type% &climit for &e%objective_name% &cin
+        &e%job_name% &cjob!'
+      - '&cYou will not receive &e%limit_type% &cfor &e%objective_name% &cuntil the
+        next day.'
+      - '&7'
+      - '&4&m                                                                &6'
+Money:
+  Pickup: '{message: ~type: ACTION_BAR;}&2*** &aYou picked up &f%money%&a! New balance:
+    &f%balance% &2***'
+  Lost: '{message: ~type: ACTION_BAR;}&4*** &cYou lost &f%money%&c! New balance: &f%balance%
+    &4***'
+JobState:
+  PRIMARY: Primary
+JobType:
+  KILL_ENTITY: Kill Entity
+  KILL_MYTHIC: Kill Mythic
+  BLOCK_BREAK: Block Break
+  FISHING: Fishing
+ObjectiveLimitType:
+  EXP: Exp
+  MONEY: Money
+BoosterType:
+  RANK: Rank
+  PERSONAL: Personal
+  GLOBAL: Global
+  AUTO: Auto
+  CUSTOM: Custom

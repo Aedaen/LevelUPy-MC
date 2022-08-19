@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660866666548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660866690765
+  login: 1660862723463
+money: '147826.1025458901236977'
+last-account-name: HummerWhite
+lastlocation:
+  world: f3db7696-68bf-49d9-96ee-954fbc3b0968
+  world-name: world_nether
+  x: 267.54267648958046
+  y: 10.0
+  z: -206.48347766450206
+  yaw: 169.1181640625
+  pitch: -12.5996675491333
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 902.1283392765552
+  y: 50.5
+  z: -694.5693286707693
+  yaw: -123.21786499023438
+  pitch: 33.14946365356445
+homes:
+  home:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 902.9469629800799
+    y: 68.0
+    z: -691.6876156028787
+    yaw: 157.88134765625
+    pitch: 39.29969024658203

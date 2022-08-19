@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660866428341
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660868088118
+  login: 1660859177188
+money: '42264.9072361160630191'
+last-account-name: Yopiotemate
+lastlocation:
+  world: f3db7696-68bf-49d9-96ee-954fbc3b0968
+  world-name: world_nether
+  x: 22.442736957687025
+  y: 12.0
+  z: -134.69999998807907
+  yaw: 65.9317626953125
+  pitch: 10.800135612487793
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 975.6999999880791
+  y: 63.0
+  z: -703.2337783723523
+  yaw: 86.7919921875
+  pitch: 12.29931640625
+homes:
+  home:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 967.6730607177165
+    y: 63.0
+    z: -704.1601720467229
+    yaw: 111.75596618652344
+    pitch: 7.500046730041504
+  mainhome:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 970.613399894787
+    y: 63.0
+    z: -703.322520387479
+    yaw: 77.1591796875
+    pitch: 18.599876403808594

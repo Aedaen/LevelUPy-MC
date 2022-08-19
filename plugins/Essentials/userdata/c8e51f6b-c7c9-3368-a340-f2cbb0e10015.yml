@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660923265347
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660940529208
+  login: 1660940083807
+money: '96.7429643759370614'
+last-account-name: Ulimundo
+lastlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 165.69999998807907
+  y: 7.0
+  z: -398.93726113981467
+  yaw: 1.04736328125
+  pitch: 19.650373458862305
+homes:
+  home:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 160.72375132741905
+    y: 65.0
+    z: -603.9128357295787
+    yaw: -161.2305908203125
+    pitch: 9.14960765838623
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 100.41696920735009
+  y: 8.0
+  z: -360.49007712576565
+  yaw: 69.82470703125
+  pitch: -15.900142669677734

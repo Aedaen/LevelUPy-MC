@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660796566180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660872729966
+  login: 1660871378030
+money: '3459.6100000000000147'
+last-account-name: AndresGTW
+lastlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 1011.0824994974347
+  y: 67.5753455594904
+  z: -997.1143216265742
+  yaw: -139.16082763671875
+  pitch: -4.649869441986084
+homes:
+  home:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 453.17558112747224
+    y: 64.0
+    z: -1666.2067692514763
+    yaw: -126.22901916503906
+    pitch: 7.350121021270752
+  secreto:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 814.7865230340756
+    y: 33.0
+    z: -1023.1788723654529
+    yaw: 81.33984375
+    pitch: -7.200240135192871
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 790.9695973936737
+  y: 33.0625
+  z: -1028.3398155426298
+  yaw: -7.6204833984375
+  pitch: 4.800025463104248

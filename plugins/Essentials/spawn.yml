@@ -1,0 +1,17 @@
+spawns:
+  default:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 256.585812439024
+    y: 132.0
+    z: -631.3285971414596
+    yaw: 90.32763671875
+    pitch: 8.850658416748047
+  miembro:
+    world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+    world-name: world
+    x: 256.585812439024
+    y: 132.0
+    z: -631.3285971414596
+    yaw: 90.32763671875
+    pitch: 8.850658416748047

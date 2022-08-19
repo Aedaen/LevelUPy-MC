@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.200.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660774726586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660917698764
+  login: 1660917516778
+money: '12514.79917151163107481'
+last-account-name: ghotzer
+lastlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 1013.5912319852616
+  y: 63.0
+  z: -659.0053324745514
+  yaw: 59.654998779296875
+  pitch: 21.749155044555664
+logoutlocation:
+  world: a7fd0ab6-e8ce-421b-9037-4fbef6b5a717
+  world-name: world
+  x: 794.5763984045141
+  y: 64.0
+  z: -703.6999999880791
+  yaw: 81.8997802734375
+  pitch: 16.9493350982666
